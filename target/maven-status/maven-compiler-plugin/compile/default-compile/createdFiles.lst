@@ -1,0 +1,12 @@
+co/za/demo/spring2/student/StudentService.class
+co/za/demo/spring2/EmailValidator.class
+co/za/demo/spring2/student/Student$Gender.class
+co/za/demo/spring2/student/Student.class
+co/za/demo/spring2/exception/ApiRequestException.class
+co/za/demo/spring2/exception/ApiExceptionHandler.class
+co/za/demo/spring2/datasource/DataSource.class
+co/za/demo/spring2/student/StudentDataAccessService.class
+co/za/demo/spring2/student/StudentController.class
+co/za/demo/spring2/student/StudentCourse.class
+co/za/demo/spring2/Spring2Application.class
+co/za/demo/spring2/exception/ApiException.class
